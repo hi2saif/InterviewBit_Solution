@@ -13,4 +13,4 @@ int result=A;
     }
     return answer;
 }
-
+//code changin gto try github
